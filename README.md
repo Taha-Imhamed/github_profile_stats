@@ -1,3 +1,4 @@
+Overview
 GitHub Profile Stats is a web application that fetches and displays detailed statistics about a GitHub user's profile using the GitHub API. It showcases the user's contributions, programming languages used, and more, all wrapped in a sleek, Matrix-themed interface.
 
 
@@ -29,22 +30,19 @@ Python 3.x
 Flask
 Requests
 Installation
+
 Clone this repository:
 
-bash
-نسخ الكود
-git clone https://github.com/yourusername/github_profile_stats.git
-cd github_profile_stats
+{git clone https://github.com/yourusername/github_profile_stats.git
+cd github_profile_stats}
+
 Install the required Python packages:
 
-bash
-نسخ الكود
-pip install Flask requests
-Run the application:
+{pip install Flask requests}
 
-bash
-نسخ الكود
-python app.py
+Run the application:
+{python app.py}
+
 Open your web browser and navigate to http://127.0.0.1:5000.
 
 Usage
@@ -64,3 +62,6 @@ Acknowledgments
 GitHub API for providing the necessary data.
 Chart.js for easy charting capabilities.
 Special thanks to the contributors of open-source projects that helped in building this application!
+
+
+
